@@ -1,0 +1,2 @@
+# NLP_Project_Fake_News_Detection
+Natural Language Processing
